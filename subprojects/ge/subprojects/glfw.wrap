@@ -1,0 +1,9 @@
+[wrap-git]
+
+directory = glfw
+
+method = cmake
+
+url = https://github.com/glfw/glfw
+
+revision = HEAD

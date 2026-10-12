@@ -1,0 +1,9 @@
+[wrap-git]
+
+directory = assimp
+
+method = cmake
+
+url = https://github.com/assimp/assimp
+
+revision = HEAD
